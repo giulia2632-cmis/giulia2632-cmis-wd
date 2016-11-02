@@ -3,5 +3,8 @@ ls- allows you to view the folders on your computer
 get add . - retrace your work
 gedit <file name>- to create a new gedit file
 git push- push file to respository (github)
-
+MAKE SURE TO SAVE GEDIT FILE INTO RESPOSITORY FIRST
+1. git add <file name>
+2. git commit -m "<file description>"
+3. git push
 
