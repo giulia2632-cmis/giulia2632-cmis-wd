@@ -1,15 +1,17 @@
 These are the steps that will leave you with a new file called "file.txt" in your github respository by the end of class:
-1. After coming on to your computer, log in on everything including github.
-2. Then clone. Your command should look like this:git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
-But with your username in it.
-3. To create the gedit file for "file.txt", you must type in the command: gedit <file name>
+1. Walk into the classroom, sit down at a computer, turn it on, and log in on everything including github.
+2. Open terminal and then clone. Your command should look like this:git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+But make sure to put your own network username and password and your own github username and respository name.
+3. Use the command: cd
+So everything that you save will be saved to your respository
+4.  To create the gedit file for "file.txt", you must type in the command: gedit <file name>
 In this case the file name is file.txt so the command would be: 
 gedit file.txt (If you want to use terminal and gedit at the same time, add an &)example: gedit file.txt &
-4. After doing this, your gedit file that is already named file.txt should pop up. Then, type what ever you want into the file and save it.
-5. Use the command: cd
-So everything that you save will be saved to your respository
+5. After doing this, your gedit file that is already named file.txt should pop up. Then, type what ever you want into the file and save it.
 6. When you are done or you want to save your work for now, use the command: git add <file name> 
 So it would be: git add file.txt
 7. The next command for this process is: git commit -m "<description of file>"
 8. The last command for this is: git push
 This will push your gedit file onto your respository. It will ask for your username and password so make sure you type those in correctly.
+9. Check your respository on github.com to see if your file "file.txt" is there before closing terminal or gedit.
+10. Shut down yout computer after seeing that everything is in its correct place.
