@@ -1,5 +1,21 @@
 h1{
-	font-family:Copperplate Gothic Light
-	color:salmon;
-	background-color:blue;
+	border-style: solid;
+  	border-color: #6495ED #FF7F50;
+	border-width:18px;
+	color:#2F4F4F;
+	background-color:#008080;
+	text-shadow: 2px 2px #FFB6C1;
+	font-family:"Courier New", Courier, monospace
+}
+p {
+	color:#5F9EA0;
+	background-color:#4B0082;
+	font-family:"Comic Sans MS", cursive, sans-serif
+}
+h2{    
+	 color:#98FB98;
+	background-color:#4169E1;
+	font-family:"Arial Black", Gadget, sans-serif
+}
+
 
