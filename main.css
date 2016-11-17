@@ -1,10 +1,11 @@
 h1{
 	border-style: solid;
   	border-color: #6495ED #FF7F50;
-	border-width:18px;
+	border-width:16px;
 	color:#2F4F4F;
 	background-color:#008080;
 	text-shadow: 2px 2px #FFB6C1;
+	text-align: center;
 	font-family:"Courier New", Courier, monospace
 }
 p {
@@ -13,9 +14,18 @@ p {
 	font-family:"Comic Sans MS", cursive, sans-serif
 }
 h2{    
-	 color:#98FB98;
-	background-color:#4169E1;
+	 color:#black;
+	background:linear-gradient(pink,yellow);
+	text-align: center;
 	font-family:"Arial Black", Gadget, sans-serif
 }
+body{
+	background:url(https://66.media.tumblr.com/92e2c7d6a31eea0b3f2be6161344ca7c/tumblr_nn6h03Gt7T1qb6v6ro1_400.gif)
+}
+
+
+
+
+
 
 
