@@ -6,22 +6,47 @@ h1{
 	background-color:#008080;
 	text-shadow: 2px 2px #FFB6C1;
 	text-align: center;
+	text-decoration:underline;
+	text-transform:uppercase;
+	letter-spacing:3px;
+	word-spacing:5px;
 	font-family:"Courier New", Courier, monospace
 }
 p {
+	border: 3px solid black;
+	outline-style:double;
+	outline-color:red;
+	outline-width:thick;
+	outline:5px dashed red;
 	color:#5F9EA0;
 	background-color:#4B0082;
+	text-indent: 50px;
+	padding-top: 50px;
+   	padding-right: 30px;
+    	padding-bottom: 50px;
+    	padding-left: 80px;
+	margin: 100px 150px 100px 150px;
 	font-family:"Comic Sans MS", cursive, sans-serif
 }
 h2{    
-	 color:#black;
+	border-bottom-color:#A8F2E0;
+	border-bottom-style:dashed;
+	border-top-color:#7CEDD3;
+	border-top-style:dotted;
+	border-top-width:10px;
+	color:#445DA1;
 	background:linear-gradient(pink,yellow);
 	text-align: center;
+	text-shadow:2px 2px #97B3FE ;
 	font-family:"Arial Black", Gadget, sans-serif
 }
 body{
-	background:url(https://66.media.tumblr.com/92e2c7d6a31eea0b3f2be6161344ca7c/tumblr_nn6h03Gt7T1qb6v6ro1_400.gif)
+	background-color:#CBB7FA;
+	letter-spacing:2px;	
 }
+
+
+
 
 
 
