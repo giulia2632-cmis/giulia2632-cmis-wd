@@ -1,0 +1,46 @@
+h1{
+	background:#ADD8E6;
+	color:red;
+	font-size:45px;
+}
+p1{
+	color:blue;
+	background:#ADD8E6;
+	border-top-style:dotted;
+	border-top-color:green;
+	border-top-width:2px;
+	border-bottom-color:red;
+	border-bottom-width:20px;
+	border-bottom-style:dashed;
+	padding-top:20px;
+	padding-bottom:14px;
+	font-size:15.7px;
+}
+h2{ 
+	background:blue;
+	color:white;
+	font-size:18px;
+}
+p2{
+	color:blue;
+	border-top-style:dotted;
+	border-top-color:green;
+	border-top-width:2px;
+	font-size:13px;
+}
+h3{
+	background:blue;
+	color:white;
+	font-size:18px;
+}
+body{
+	background:#FFB6C1;
+	border-left-color:red;
+	border-left-width:20px;
+	border-left-style:dashed;
+}
+
+	
+
+
+
