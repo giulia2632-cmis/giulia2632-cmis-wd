@@ -1,4 +1,46 @@
-h1{
+/* 1.border-style
+2. border-color
+3.border-width
+4.color
+5.background-color
+6. text-shadow
+7.text-align
+8.text-decoration
+9.text-transform
+10.letter-spacing
+11.word-spacing
+12. font-family
+13.border
+14.outline-style
+15.outline-color
+16.outline-width
+17.outline
+18.text-indent
+19.padding-top (bottom,right,left)
+20.margin
+21.border-bottom (color,style)
+22. border-top (color,style,width)
+Learnt how to add an image as background
+Learnt how to use shadows */
+/*Requirements
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font and text of each element.
+*Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+Use at least 4 different units to set sizes of various aspects of your webpage.
+*Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+Upload to the production server with sftp.
+View your index.html in the production server.*/
+h1 {
 	border-style: solid;
   	border-color: #6495ED #FF7F50;
 	border-width:16px;
