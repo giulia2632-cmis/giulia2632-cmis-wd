@@ -1,0 +1,98 @@
+h1 {
+	color:yellow;
+	background-color:blue;
+	text-align:left;
+	letter-spacing:0px;
+	border: 3px blue;
+	outline-style:double;
+	outline-color:blue;
+	outline-width:thick;
+	outline:5px blue;
+	padding-top: 4px;
+   	padding-right: 30px;
+    	padding-bottom:20px;
+    	padding-left: 20px;
+	margin: 0px 150px 0px 150px;
+	font-family:Impact, Charcoal, sans-serif
+}
+header{
+	color:white;
+	font-size:15px;
+	background-color:blue;
+	text-align:left;
+	letter-spacing:0px;
+	border: 3px blue;
+	outline-style:double;
+	outline-color:blue;
+	outline-width:thick;
+	outline:5px blue;
+   	padding-right: 30px;
+    	padding-left: 20px;
+	margin: 0px 150px 0px 150px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+nav{
+	color:yellow;
+	text-decoration:underline;
+	text-decoration:line-through;
+	margin: 0px 150px 0px 150px;
+	color:yellow;
+	font-size:12px;
+	padding-right:20px;
+    	padding-left: 20px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+h2{
+	margin: 0px 150px 0px 150px;
+	color:black;
+	background-color:white;
+	margin:0px 150px 0px 150px;
+	font-size:14px;
+	text-decoration:bold;
+	padding-right: 30px;
+    	padding-left: 20px;
+	font-family:"Lucida Console", Monaco, monospace
+	
+}
+p{
+	color:solid black;
+	background-color:white;
+	text-decoration:underline;
+	margin:0px 150px 0px 150px;
+	font-size:14px;
+	padding-right: 30px;
+    	padding-left: 20px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+body{
+	background-color:red;
+	letter-spacing:2px;	
+}
+footer{
+	color:white;
+	background-color:blue;
+	text-align:left;
+	margin: 0px 150px 0px 150px;
+}
+ul{
+	text-decoration:line-through;
+	color:black;
+	background-color:white;
+	margin:0px 150px 0px 150px;
+	font-size:11px;
+	padding-right: 30px;
+    	padding-left: 20px;
+}
+ol{
+	outline-color:black;
+	outline-width:1px;
+	outline:1px dashed black;
+	color:black;
+	background-color:white;
+	margin:0px 150px 0px 150px;
+	font-size:14px;
+	padding-right: 30px;
+    	padding-left: 20px;
+}
