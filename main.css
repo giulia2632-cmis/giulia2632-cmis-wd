@@ -40,6 +40,8 @@ Use at least 4 different units to set sizes of various aspects of your webpage.
 *Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
 Upload to the production server with sftp.
 View your index.html in the production server.*/
+/* 1. I learnt how to do gradients
+2. I learnt how to decorate the text with different properties such as underlining */
 header{
 	border-style: solid;
   	border-color: #6495ED #FF7F50;
