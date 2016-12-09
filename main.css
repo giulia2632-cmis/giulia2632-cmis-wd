@@ -64,7 +64,7 @@ nav{
 	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size:15px;
 }
-main{
+main p{
 	background-color:#EEA9F6;
 	border:7px solid black;
 	border-color:#A9E9F6;
@@ -78,7 +78,7 @@ footer{
 	font-family:Impact, Charcoal, sans-serif;
 	font-size:15px;
 }
-p {
+p{
 	border: 3px solid black;
 	outline-style:double;
 	outline-color:red;
@@ -94,7 +94,7 @@ p {
 	margin: 100px 150px 100px 150px;
 	font-family:"Comic Sans MS", cursive, sans-serif
 }
-h2{    
+h1,h2{    
 	border-bottom-color:#A8F2E0;
 	border-bottom-style:dashed;
 	border-top-color:#7CEDD3;
@@ -104,7 +104,7 @@ h2{
 	background:linear-gradient(pink,yellow);
 	text-align: center;
 	text-shadow:2px 2px #97B3FE ;
-	font-family:"Arial Black", Gadget, sans-serif
+	font-family:"Courier New", Courier, monospace
 }
 body{
 	background-color:#CBB7FA;
@@ -112,29 +112,37 @@ body{
 }
 ol{
 	border:1px solid black;
-	margin:1;
+	margin:1px;
 	padding:5px;
 	padding-left:35px;
 	width:820px;
-	height:700px;
+	height:500px;
 }
 ul{
 	border:1px solid black;
-	margin:1;
+	margin:1px;
 	padding:5px;
 	padding-left:35px;
-	width:250px;
-	height:20px;
+	width:820px;
+	height:400px;
 }
 li{
-	border:1px solid black;
-	margin:1;
+	border:1px solid;
+	border-color:red;
+	margin:1px;
 	padding:5px;
 	padding-left:35px;
-	width:500px;
-	height:70px;
+	width:820px;
+	height:30px;
 }
 a{
+	border:1px solid;
+	border-color:blue;
+	margin:1px;
+	padding:5px;
+	padding-left:35px;
+	width:820px;
+	height:30px;
 }
 
 
