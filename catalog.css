@@ -1,0 +1,50 @@
+html{
+	background-image:url("https://68.media.tumblr.com/3cca60810de972cc08c4a5ac40b690df/tumblr_ndpupoDTro1rnmh3no1_250.png")
+}
+body{
+	text-align:center;
+}
+article{
+	background-color:#f9f5aa;
+	width:700px;
+	position:center;
+}
+header{
+	border-style: dashed;
+  	border-color: #d7d4fc #fcd4f9;
+	border-width:14px;
+	color:#faa3a3;
+	text-align: center;
+	text-transform:uppercase;
+	letter-spacing:3px;
+	word-spacing:5px;
+	font-size:35px;
+	font-family:"Comic Sans MS", cursive, sans-serif
+}
+h2{
+}
+nav{
+}
+main{
+}
+p{
+}
+h1{
+}
+img{
+}
+ul{
+	text-align:center;
+}
+li{
+	text-align:center;
+	margin: auto;
+   	width: 50%;
+   	border: 3px solid black;
+	border-color:#d2f9aa;
+    	padding: 10px;
+}
+a{
+}
+footer{
+}
