@@ -1,13 +1,22 @@
 html{
 	background-image:url("https://68.media.tumblr.com/3cca60810de972cc08c4a5ac40b690df/tumblr_ndpupoDTro1rnmh3no1_250.png")
 }
-body{
+body main{
 	text-align:center;
 }
 article{
-	background-color:#f9f5aa;
-	width:700px;
-	position:center;
+	background-color:#031515;
+	width:900px;
+	margin-left:9cm;
+	margin-right:9cm;
+	margin-top:3cm;
+	margin-bottom:3cm;
+	position: center;
+	padding-top:5px;
+	padding-bottom:5px;
+	border: solid #3B585C;
+	border-style: solid;
+	border-width: 5px;
 }
 header{
 	border-style: dashed;
@@ -22,29 +31,63 @@ header{
 	font-family:"Comic Sans MS", cursive, sans-serif
 }
 h2{
+	color:#FFFFFF;
+	font-size:30px;
+	font-family: "Lucida Console", Monaco, monospace;
 }
-nav{
+h3{
+	color:#FFFFFF;
+	font-size:28px;
+	letter-spacing:5px;
+	border-style:double;
+	border-width:7px;
+	border-left:3cm;
+	border-color:#A98A7E #372924;
+	font-family:Impact, Charcoal, sans-serif;
 }
-main{
+nav,footer{
+	color:#7EC4CE;
+	letter-spacing:3px;
+	padding-top:10px;
+	font-style:oblique;
+	font-size:20px;
+	text-align:center;
+	font-family:"Courier New", Courier, monospace;	
 }
 p{
+	color:#F0D2F8;
+	font-style:italic;
+	font-size:20px;
 }
 h1{
+	color:white;
+	font-size:25px;
+	letter-spacing:2mm;
+	text-transform:uppercase;
+	font-family: "Lucida Console", Monaco, monospace;
 }
 img{
+	border:5px solid #FFAA8F;
 }
 ul{
 	text-align:center;
+	border-color:white;
+	border-width:5px;
 }
 li{
+	color:#BB80DC;
+	font-size:15px;
 	text-align:center;
 	margin: auto;
-   	width: 50%;
+   	width: 30%;
    	border: 3px solid black;
-	border-color:#d2f9aa;
+	border-color:#154140;
+	border-width:2px;
     	padding: 10px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 a{
-}
-footer{
+	width:820px;
+	height:30px;
+	text-shadow:2px 2px #97B3FE ;
 }
