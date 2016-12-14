@@ -10,11 +10,8 @@ article{
 	width:797px;
 	margin-left:10.3cm;
 	margin-right:9.3cm;
-	margin-top:2cm;
-	margin-bottom:2cm;
 	position: center;
-	padding-top:2px;
-	padding-bottom:2px;
+	margin-top:1cm;
 	border: solid #3B585C;
 	border-style: solid;
 	border-width: 5px;
@@ -26,7 +23,7 @@ header{
 	margin-left:10.3cm;
 	margin-right:9.3cm;
 	margin-top:2cm;
-	margin-bottom:2cm;
+	margin-bottom:1cm;
 	position: center;
 	padding-top:2px;
 	padding-bottom:1px;
@@ -45,11 +42,13 @@ h2{
 	border-style: dashed;
   	border-color: #d7d4fc #fcd4f9;
 	border-width:12px;
-	width:10cm;
+	width:15cm;
 	position:center;
-	font-size:30px;
-	margin-left:5.5cm;
+	font-size:40px;
+	margin-left:2.7cm;
 	margin-right:3cm;
+	padding-top:2mm;
+	padding-bottom:2mm;
 	font-family: "Lucida Console", Monaco, monospace;
 }
 h3{
@@ -69,6 +68,7 @@ nav,footer{
 	font-style:oblique;
 	font-size:20px;
 	text-align:center;
+	margin:auto;
 	font-family:"Courier New", Courier, monospace;	
 }
 p{
@@ -96,19 +96,19 @@ li{
 	color:#DDB2F0;
 	font-size:15px;
 	text-align:center;
-	margin: auto;
+	margin-left:6.2cm;
    	width: 30%;
    	border:3px solid black;
 	border-color:#154140;
 	border-width:2px;
 	background:#0A2326;
-    	padding: 10px;
+    padding: 10px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
 a{
 	width:820px;
 	height:30px;
-	text-shadow:2px 2px #97B3FE ;
+	text-shadow:3px 3px #EA83BD;
 }
 script{
 	color:transparent;
