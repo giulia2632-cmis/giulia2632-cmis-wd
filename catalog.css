@@ -102,7 +102,7 @@ li{
 	border-color:#154140;
 	border-width:2px;
 	background:#0A2326;
-    padding: 10px;
+    	padding: 10px;
 	font-family:"Comic Sans MS", cursive, sans-serif;
 }
 a{
@@ -112,4 +112,9 @@ a{
 }
 script{
 	color:transparent;
+}
+a:hover{
+	color:white;
+	font-weight:bolder;
+	text-decoration:overline;
 }
